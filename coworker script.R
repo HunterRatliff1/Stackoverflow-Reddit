@@ -9,4 +9,3 @@ coworker_helper <- function(...){
   list.files(path_dir) # return something
   
 }
-coworker_helper()
